@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<propertyList date="2024-04-18T02:28:32" username="konnectftp" password="Australia123=">
+  <rental modTime="2024-04-18T02:28:08" status="offmarket">
+    <agentID>RENTALS</agentID>
+    <uniqueID>b10600528a004029824d07278252d9a7</uniqueID>
+    <listingAgent>
+      <name>Konnect Leasing Team</name>
+      <telephone>07 3557 5725</telephone>
+      <telephone type="mobile">0414983909</telephone>
+      <email>leasing@konnect.rentals</email>
+    </listingAgent>
+    <listingAgent id="2" />
+    <listingAgent id="3" />
+    <listingAgent id="4" />
+    <dateAvailable>2024-03-29T00:00:00</dateAvailable>
+    <rent period="weekly" display="yes">890.00</rent>
+    <priceView />
+    <bond>3560.00</bond>
+    <address display="yes" streetview="yes">
+      <subNumber>2212</subNumber>
+      <streetNumber>45</streetNumber>
+      <street>Duncan Street</street>
+      <suburb display="yes">West End</suburb>
+      <state>QLD</state>
+      <postcode>4101</postcode>
+      <country />
+    </address>
+    <category name="Apartment" />
+    <headline>Fully Furnished Luxury Apartment</headline>
+    <description>We want to provide you with the best possible service and keep you informed and updated on any inspections. Please register your name and contact details, as homes will only be opened if we have registered attendees. If you are having trouble registering, please call the listing agent, and we can register you.
+
+Spacious fully furnished apartment with amazing features that have to be seen!
+
+This luxury apartment in pristine condition exudes style and space, making this a priority to inspect in West End.
+
+The relaxed lifestyle of Waters Edge flows through to your stunning 2 bedroom apartment with open plan living, which transitions into your entertainer's balcony overlooking the river and gardens. At the heart of the design is a chef's kitchen with a stone benchtop, soft-close drawers, and Miele appliances. Your master suite with balcony access has a luxurious designer robe and modern ensuite.
+
+With a North East corner presence, this contemporary apartment also benefits from ample natural light filtering throughout the living areas from the expansive 28m2 balconies, giving both river and city views. Generous living spaces throughout the apartment and the premium finishes and sleek design create a stylish, contemporary vibe for you to enjoy your inner-city lifestyle.
+
+Property features:
+- Two spacious bedrooms
+- Two stylish bathrooms
+- Two secure car parks plus a storage cage
+- Dual balconies
+- Open planned living and dining area flows to the balcony
+- Modern kitchen features quality stainless steel appliances including a wine fridge and stone bench with a waterfall edge
+- Separate laundry room
+- Ducted air conditioning and generous storage throughout
+- Riverside Drive access to cycle and walking paths
+- Brisbane State High School catchment
+
+Situated prominently on the riverfront precinct of the Brisbane River, and set on over 4,000sqm of lush waterscape gardens with a 25m heated infinity-edge lap pool and spa, and a lagoon-style wading pool, Waters Edge really is your riverfront oasis. Nothing has been spared - take advantage of the fully equipped gymnasium, community entertaining rooms, and BBQ entertaining area.
+
+Walk to local cafes, markets, shops, restaurants, and bars. The Brisbane CBD is just 3kms away while the South Bank Parklands, Performing Arts, Cultural Centre, State Library, Gallery of Modern Art, and Museum are a leisurely walk or just a short bus ride away.
+
+VIEWING OUR RENTAL PROPERTIES 
+Properties must be inspected before an application can be submitted. Should there be no advertised open house, please register your details online, and we will be in touch. If an open house is advertised, please register your name and contact details online, as homes will only be opened if we have registered attendees. 
+
+REQUIRED SUPPORTING DOCUMENTS 
+We require you to submit a minimum of 100 points for your application to be considered. You MUST include a photo ID, 2 weeks' proof of income &amp; proof of residential address as a minimum. Please ensure all applicants over 18 submit an application.</description>
+    <features>
+      <bedrooms>2</bedrooms>
+      <bathrooms>2</bathrooms>
+      <ensuite>1</ensuite>
+      <garages>2</garages>
+      <carports>0</carports>
+      <remoteGarage>no</remoteGarage>
+      <secureParking>yes</secureParking>
+      <airConditioning>yes</airConditioning>
+      <alarmSystem>no</alarmSystem>
+      <vacuumSystem>no</vacuumSystem>
+      <intercom>yes</intercom>
+      <poolInGround>yes</poolInGround>
+      <poolAboveGround>no</poolAboveGround>
+      <tennisCourt>no</tennisCourt>
+      <balcony>yes</balcony>
+      <deck>no</deck>
+      <courtyard>yes</courtyard>
+      <outdoorEnt>yes</outdoorEnt>
+      <shed>no</shed>
+      <fullyFenced>yes</fullyFenced>
+      <openFirePlace>no</openFirePlace>
+      <openSpaces>0</openSpaces>
+      <toilets>1</toilets>
+      <livingAreas>0</livingAreas>
+      <hotWaterService>yes</hotWaterService>
+      <insideSpa>no</insideSpa>
+      <outsideSpa>no</outsideSpa>
+      <broadband>yes</broadband>
+      <builtInRobes>yes</builtInRobes>
+      <dishwasher>yes</dishwasher>
+      <ductedCooling>no</ductedCooling>
+      <ductedHeating>no</ductedHeating>
+      <floorboards>no</floorboards>
+      <gasHeating>yes</gasHeating>
+      <gym>yes</gym>
+      <hydronicHeating>no</hydronicHeating>
+      <payTV>yes</payTV>
+      <reverseCycleAirCon>no</reverseCycleAirCon>
+      <rumpusRoom>no</rumpusRoom>
+      <splitSystemAirCon>no</splitSystemAirCon>
+      <splitSystemHeating>no</splitSystemHeating>
+      <study>yes</study>
+      <workshop>no</workshop>
+    </features>
+    <landDetails>
+      <area unit="squareMeter"></area>
+    </landDetails>
+    <newConstruction>False</newConstruction>
+    <buildingDetails>
+      <area unit="squareMeter">0</area>
+    </buildingDetails>
+    <inspectionTimes />
+    <images>
+      <img id="m" modTime="2024-04-18T02:28:32" url="http://docs.propertyme.com/listing/b1220034-fe81-466c-9bed-bb0f9678cefe.jpg" />
+      <img id="a" modTime="2024-04-18T02:28:33" url="http://docs.propertyme.com/listing/b1220034-4bf5-4764-a5e3-304a8d8d2f11.jpg" />
+      <img id="b" modTime="2024-04-18T02:28:33" url="http://docs.propertyme.com/listing/b1220026-a466-48cd-add1-6549fc2e3970.jpg" />
+      <img id="c" modTime="2024-04-18T02:28:34" url="http://docs.propertyme.com/listing/b1220027-d977-4b7d-b911-4fd41ab775e5.jpg" />
+      <img id="d" modTime="2024-04-18T02:28:34" url="http://docs.propertyme.com/listing/b1220027-7366-4d60-8003-57ffe7ad146f.jpg" />
+      <img id="e" modTime="2024-04-18T02:28:35" url="http://docs.propertyme.com/listing/b1220027-7b45-491f-8dff-7b9e1525c547.jpg" />
+      <img id="f" modTime="2024-04-18T02:28:35" url="http://docs.propertyme.com/listing/b1220035-3253-421d-8049-5ac888876001.jpg" />
+      <img id="g" modTime="2024-04-18T02:28:35" url="http://docs.propertyme.com/listing/b1220027-fb3b-4db4-b0c5-efd2a3cef1f3.jpg" />
+      <img id="h" modTime="2024-04-18T02:28:36" url="http://docs.propertyme.com/listing/b1220027-e8bc-4e52-8b95-c0973e9bcde1.jpg" />
+      <img id="i" modTime="2024-04-18T02:28:37" url="http://docs.propertyme.com/listing/b1220034-bf6f-498b-acfc-8bacdc8ef109.jpg" />
+      <img id="j" modTime="2024-04-18T02:28:37" url="http://docs.propertyme.com/listing/b1220027-2dfe-4f1a-87e9-8247e66ae8fc.jpg" />
+      <img id="k" />
+      <img id="l" />
+      <img id="n" />
+      <img id="o" />
+      <img id="p" />
+      <img id="q" />
+      <img id="r" />
+      <img id="s" />
+      <img id="t" />
+      <img id="u" />
+      <img id="v" />
+      <img id="w" />
+      <img id="x" />
+      <img id="y" />
+      <img id="z" />
+      <img id="aa" />
+      <img id="ab" />
+      <img id="ac" />
+      <img id="ad" />
+      <img id="ae" />
+      <img id="af" />
+      <img id="ag" />
+      <img id="ah" />
+      <img id="ai" />
+    </images>
+    <objects>
+      <floorplan id="1" modTime="2024-04-18T02:28:38" url="http://docs.propertyme.com/listing/b122003e-bc30-42ed-8421-1cf8bd75da31.jpg" format="jpg" />
+      <floorplan id="2" />
+    </objects>
+    <ecoFriendly>
+      <solarPanels>no</solarPanels>
+      <solarHotWater>no</solarHotWater>
+      <waterTank>no</waterTank>
+    </ecoFriendly>
+    <allowances>
+      <petFriendly>no</petFriendly>
+      <furnished>yes</furnished>
+      <smokers>no</smokers>
+    </allowances>
+  </rental>
+</propertyList>
