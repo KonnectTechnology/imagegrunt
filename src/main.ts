@@ -4,6 +4,7 @@ import { modifyImage } from "./transform.ts";
 import { parseParams } from "./params.ts";
 import { getRemoteImage } from "./fetcher.ts";
 import { storeImage } from "./store.ts";
+import { databaseSetImage } from "./database.ts";
 
 serve(
   async (req: Request) => {
@@ -20,6 +21,8 @@ serve(
     const modifiedImage = await modifyImage(remoteImage.buffer, params);
 
     const newimgurl = await storeImage(modifiedImage, params.width);
+
+    await databaseSetImage(params.image, newimgurl, "blah");
 
     /*return new Response(modifiedImage, {
       headers: {

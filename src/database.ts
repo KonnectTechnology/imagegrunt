@@ -1,5 +1,7 @@
-
-export async function databaseSetImage(imageobj: any){
- const kv = await Demo.openKv();
+export async function databaseSetImage(
+  origurl: string,
+  newurl: string,
+  newslug: string
+) {
+  const kv = await Deno.openKv();
 }
-
