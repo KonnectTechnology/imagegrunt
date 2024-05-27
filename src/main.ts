@@ -20,12 +20,6 @@ export default {
       return new Response(remoteImage, { status: 400 });
     }
 
-    /**
-     * Resze the image async
-     * TODO ideal sizing for REA
-     *
-     * @type {*}
-     */
     const modifiedImage = await modifyImage(remoteImage.buffer, params);
     const newimgurl = await storeImage(modifiedImage, params.width);
 

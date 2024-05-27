@@ -1,0 +1,502 @@
+{
+  "_declaration": {
+    "_attributes": {
+      "version": "1.0",
+      "encoding": "utf-8"
+    }
+  },
+  "propertyList": {
+    "_attributes": {
+      "date": "2024-05-24T16:26:37",
+      "username": "johnathon",
+      "password": "johnn0"
+    },
+    "rental": {
+      "_attributes": {
+        "modTime": "2024-05-24T16:26:13",
+        "status": "current"
+      },
+      "agentID": {
+        "_text": "KONNECT"
+      },
+      "uniqueID": {
+        "_text": "b1700068dce74a189cdf28dc6a8e8897"
+      },
+      "listingAgent": [
+        {
+          "name": {
+            "_text": "Konnect Leasing Team"
+          },
+          "telephone": [
+            {
+              "_text": "07 3557 5725"
+            },
+            {
+              "_attributes": {
+                "type": "mobile"
+              },
+              "_text": "0414983909"
+            }
+          ],
+          "email": {
+            "_text": "leasing@konnect.rentals"
+          }
+        },
+        {
+          "_attributes": {
+            "id": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "id": "3"
+          }
+        },
+        {
+          "_attributes": {
+            "id": "4"
+          }
+        }
+      ],
+      "dateAvailable": {
+        "_text": "2024-05-31T00:00:00"
+      },
+      "rent": {
+        "_attributes": {
+          "period": "weekly",
+          "display": "yes"
+        },
+        "_text": "550.00"
+      },
+      "priceView": {},
+      "bond": {
+        "_text": "2200.00"
+      },
+      "address": {
+        "_attributes": {
+          "display": "yes",
+          "streetview": "yes"
+        },
+        "subNumber": {
+          "_text": "408"
+        },
+        "streetNumber": {
+          "_text": "54"
+        },
+        "street": {
+          "_text": "Lincoln St"
+        },
+        "suburb": {
+          "_attributes": {
+            "display": "yes"
+          },
+          "_text": "Stones Corner"
+        },
+        "state": {
+          "_text": "QLD"
+        },
+        "postcode": {
+          "_text": "4120"
+        },
+        "country": {
+          "_text": "Australia"
+        }
+      },
+      "category": {
+        "_attributes": {
+          "name": "Apartment"
+        }
+      },
+      "headline": {
+        "_text": "Beautiful One Bedroom Apartment For Rent"
+      },
+      "description": {
+        "_text": "We want to provide you with the best possible service and keep you informed and updated on any inspections. Please register your name and contact details, as homes will only be opened if we have registered attendees. If you are having trouble registering, please call the listing agent, and we can register you.\r\n\r\nPerfectly located in the Greenslopes area, Lincoln on the Park development enjoys all the perks of city-fringe living. Set within meters of Stones Corner’s vibrant retail and café precinct and just 3km from the Brisbane CBD, Lincoln on the Park sets a new standard for luxury and lifestyle in apartment living.\r\n\r\nFeatures of the property include:\r\n* Bright, expansive master bedroom with built-in wardrobe \r\n* Fabulous natural lighting throughout the apartment\r\n* Open-plan living and dining with air conditioning\r\n* Spacious modern kitchen\r\n* Large balcony that is seamlessly connected to the open-plan living/dining\r\n* Spacious main bathroom\r\n* Fourth-floor beautiful breezes\r\n\r\nThe location of the property is:\r\n* 5.6km to Brisbane CBD\r\n* 2.0km to Greenslopes Private Hospital\r\n* 1.9km to Princess Alexandra Hospital\r\n* 1.0km to Stones Corner restaurant and shopping districts\r\n* 2.7km to Ekibin Park\r\n* 1.6km to Thompson Estate Reserve\r\n* 900m to Hanlon Park\r\n\r\nAn incredible school district, the property is surrounded by fifteen schools within 2.5km\r\n\r\nBeautiful Facilities to enjoy include, BBQ Area, Swimming Pool, Chest Lawn Game, Chill Area\r\n\r\nVIEWING OUR RENTAL PROPERTIES\r\nProperties must be inspected before an application can be submitted. Should there be no advertised open house, please register your details online, and we will be in touch.\r\nIf an open house is advertised, please register your name and contact details online, as homes will only be opened if we have registered attendees.\r\n\r\nREQUIRED SUPPORTING DOCUMENTS\r\nWe require you to submit a minimum of 100 points for your application to be considered.\r\nYou MUST include a photo ID, 2 weeks' proof of income & proof of residential address as a minimum. Please ensure all applicants over 18 submit an application"
+      },
+      "features": {
+        "bedrooms": {
+          "_text": "1"
+        },
+        "bathrooms": {
+          "_text": "1"
+        },
+        "garages": {},
+        "carports": {},
+        "remoteGarage": {
+          "_text": "no"
+        },
+        "secureParking": {
+          "_text": "yes"
+        },
+        "airConditioning": {
+          "_text": "yes"
+        },
+        "alarmSystem": {
+          "_text": "no"
+        },
+        "vacuumSystem": {
+          "_text": "no"
+        },
+        "intercom": {
+          "_text": "yes"
+        },
+        "poolInGround": {
+          "_text": "yes"
+        },
+        "poolAboveGround": {
+          "_text": "no"
+        },
+        "tennisCourt": {
+          "_text": "no"
+        },
+        "balcony": {
+          "_text": "yes"
+        },
+        "deck": {
+          "_text": "no"
+        },
+        "courtyard": {
+          "_text": "no"
+        },
+        "outdoorEnt": {
+          "_text": "yes"
+        },
+        "shed": {
+          "_text": "no"
+        },
+        "fullyFenced": {
+          "_text": "no"
+        },
+        "openFirePlace": {
+          "_text": "no"
+        },
+        "openSpaces": {
+          "_text": "1"
+        },
+        "toilets": {},
+        "livingAreas": {},
+        "hotWaterService": {
+          "_text": "yes"
+        },
+        "insideSpa": {
+          "_text": "no"
+        },
+        "outsideSpa": {
+          "_text": "no"
+        },
+        "broadband": {
+          "_text": "yes"
+        },
+        "builtInRobes": {
+          "_text": "yes"
+        },
+        "dishwasher": {
+          "_text": "yes"
+        },
+        "ductedCooling": {
+          "_text": "no"
+        },
+        "ductedHeating": {
+          "_text": "no"
+        },
+        "floorboards": {
+          "_text": "no"
+        },
+        "gasHeating": {
+          "_text": "yes"
+        },
+        "gym": {
+          "_text": "no"
+        },
+        "hydronicHeating": {
+          "_text": "no"
+        },
+        "payTV": {
+          "_text": "yes"
+        },
+        "reverseCycleAirCon": {
+          "_text": "no"
+        },
+        "rumpusRoom": {
+          "_text": "no"
+        },
+        "splitSystemAirCon": {
+          "_text": "no"
+        },
+        "splitSystemHeating": {
+          "_text": "no"
+        },
+        "study": {
+          "_text": "no"
+        },
+        "workshop": {
+          "_text": "no"
+        }
+      },
+      "landDetails": {
+        "area": {
+          "_attributes": {
+            "unit": "squareMeter"
+          }
+        }
+      },
+      "newConstruction": {
+        "_text": "False"
+      },
+      "buildingDetails": {
+        "area": {
+          "_attributes": {
+            "unit": "squareMeter"
+          }
+        }
+      },
+      "inspectionTimes": {
+        "inspection": {
+          "_text": "29-May-2024 10:00am to 10:15am"
+        }
+      },
+      "images": {
+        "img": [
+          {
+            "_attributes": {
+              "id": "m",
+              "modTime": "2024-05-24T16:26:37",
+              "url": "http://docs.propertyme.com/listing/b1780136-8ed6-440d-a330-71c155bd1269.jpg"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "a",
+              "modTime": "2024-05-24T16:26:38",
+              "url": "http://docs.propertyme.com/listing/b178013c-e66d-4d46-9f7c-5c69f18b04f6.jpg"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "b",
+              "modTime": "2024-05-24T16:26:38",
+              "url": "http://docs.propertyme.com/listing/b178018b-a023-4a07-a382-4bee24d0d639.jpg"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "c",
+              "modTime": "2024-05-24T16:26:39",
+              "url": "http://docs.propertyme.com/listing/b178018b-c52d-4f48-9075-976d74e2b0fe.jpg"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "d",
+              "modTime": "2024-05-24T16:26:40",
+              "url": "http://docs.propertyme.com/listing/b178018b-e677-45ac-948a-5376edda3584.jpg"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "e",
+              "modTime": "2024-05-24T16:26:40",
+              "url": "http://docs.propertyme.com/listing/b178018c-0d48-4928-af7f-612a114fc845.jpg"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "f",
+              "modTime": "2024-05-24T16:26:41",
+              "url": "http://docs.propertyme.com/listing/b1780519-96c5-403e-b02d-8a15d97b170f.jpg"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "g",
+              "modTime": "2024-05-24T16:26:42",
+              "url": "http://docs.propertyme.com/listing/b1780519-98c2-48d1-93e9-576712ef5c94.jpg"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "h",
+              "modTime": "2024-05-24T16:26:42",
+              "url": "http://docs.propertyme.com/listing/b1780519-9a87-4ffe-8c53-8bf6dbd4ca7b.jpg"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "i",
+              "modTime": "2024-05-24T16:26:42",
+              "url": "http://docs.propertyme.com/listing/b1780519-9c6a-4e6d-923f-6833396d6e9d.jpg"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "j",
+              "modTime": "2024-05-24T16:26:43",
+              "url": "http://docs.propertyme.com/listing/b1780519-9e2c-48af-8bdf-a50cb4ad8c84.jpg"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "k",
+              "modTime": "2024-05-24T16:26:43",
+              "url": "http://docs.propertyme.com/listing/b1780519-9f78-4c49-9acb-ae71f0af5180.jpg"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "l"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "n"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "o"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "p"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "q"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "r"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "s"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "t"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "u"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "v"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "w"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "x"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "y"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "z"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "aa"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "ab"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "ac"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "ad"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "ae"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "af"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "ag"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "ah"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "ai"
+            }
+          }
+        ]
+      },
+      "objects": {
+        "floorplan": [
+          {
+            "_attributes": {
+              "id": "1",
+              "modTime": "2024-05-24T16:26:43",
+              "url": "http://docs.propertyme.com/listing/b1780089-f9a7-4245-bfd1-cfbcefe61754.jpg",
+              "format": "jpg"
+            }
+          },
+          {
+            "_attributes": {
+              "id": "2"
+            }
+          }
+        ]
+      },
+      "ecoFriendly": {
+        "solarPanels": {
+          "_text": "no"
+        },
+        "solarHotWater": {
+          "_text": "no"
+        },
+        "waterTank": {
+          "_text": "no"
+        }
+      },
+      "allowances": {
+        "petFriendly": {
+          "_text": "no"
+        },
+        "furnished": {
+          "_text": "no"
+        },
+        "smokers": {
+          "_text": "no"
+        }
+      }
+    }
+  }
+}
