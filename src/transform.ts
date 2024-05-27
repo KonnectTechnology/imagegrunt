@@ -1,10 +1,3 @@
-/* import {
-  ImageMagick,
-  initializeImageMagick,
-  MagickGeometry,
-} from "https://deno.land/x/imagemagick_deno@0.0.14/mod.ts";
-*/
-
 import {
   ImageMagick,
   IMagickImage,
@@ -13,8 +6,22 @@ import {
   MagickGeometry,
 } from "https://deno.land/x/imagemagick_deno@0.0.26/mod.ts";
 
+/** Must init ImageMagic first */
 await initialize();
 
+/**
+ * Image resizer basewd on URL params
+ *
+ * @export
+ * @param {Uint8Array} imageBuffer
+ * @param {{
+ *     image: string;
+ *     width: number;
+ *     height: number;
+ *     mode: "resize" | "crop";
+ *   }} params
+ * @returns {*}
+ */
 export function modifyImage(
   imageBuffer: Uint8Array,
   params: {

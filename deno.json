@@ -1,29 +1,16 @@
 {
   "compilerOptions": {
     "allowJs": true,
-    "lib": [
-      "deno.window",
-      "deno.unstable"
-    ],
+    "lib": ["deno.window", "deno.unstable", "deno.ns"],
     "strict": true
   },
   "lint": {
-    "include": [
-      "src/"
-    ],
-    "exclude": [
-      "files/"
-    ],
+    "include": ["src/"],
+    "exclude": ["files/"],
     "rules": {
-      "tags": [
-        "recommended"
-      ],
-      "include": [
-        "ban-untagged-todo"
-      ],
-      "exclude": [
-        "no-unused-vars"
-      ]
+      "tags": ["recommended"],
+      "include": ["ban-untagged-todo"],
+      "exclude": ["no-unused-vars"]
     }
   },
   "fmt": {
@@ -33,42 +20,27 @@
     "semiColons": false,
     "singleQuote": true,
     "proseWrap": "preserve",
-    "include": [
-      "src/"
-    ],
-    "exclude": [
-      "files",
-      "imagess/"
-    ]
+    "include": ["src/"],
+    "exclude": ["files", "imagess/"]
   },
   "lock": false,
   "nodeModulesDir": true,
-  "unstable": [
-    "webgpu"
-  ],
+  "unstable": ["webgpu"],
   "test": {
-    "include": [
-      "src/"
-    ],
-    "exclude": [
-      "src/testdata/",
-      "src/fixtures/**/*.ts"
-    ]
+    "include": ["src/"],
+    "exclude": ["src/testdata/", "src/fixtures/**/*.ts"]
   },
   "tasks": {
-    "start": "deno run --allow-read main.ts"
+    "start": "deno run --allow-net --allow-write --allow-read --allow-env --unstable-kv src/main.ts",
+    "serve": "deno serve --allow-net --allow-write --allow-read --allow-env --host 0.0.0.0 --port 4242 --unstable-kv src/main.ts"
   },
   "imports": {
     "oak": "https://deno.land/x/oak@v12.4.0/mod.ts"
   },
-  "exclude": [
-    "dist/"
-  ],
+  "exclude": ["dist/"],
   "deploy": {
     "project": "dfe42f23-e203-4b77-ae31-5f14bed1991c",
-    "exclude": [
-      "**/node_modules"
-    ],
+    "exclude": ["**/node_modules"],
     "include": [],
     "entrypoint": "src/main.ts"
   }
